@@ -19,7 +19,7 @@ I’m a passionate **Backend Developer** who specializes in building scalable, e
 
 ### 📫 How to reach me:
 - **Email**: emmaimade14@gmail.com
-- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/emmanuel-imade-taye-694ba019b/)
+- **LinkedIn**: [emmaimade](https://www.linkedin.com/in/emmaimade/)
 - **X**: [emmaimade14](https://x.com/emmaimade14)
 
 ---
