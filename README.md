@@ -6,6 +6,7 @@
 I’m a passionate **Backend Developer** who specializes in building scalable, efficient, and high-performance backend systems. I focus on creating powerful APIs, smooth server-side logic, and robust databases that ensure seamless user experiences.
 
 ### 🔧 My Tech Stack:
+- **Frontend**: HTML5, CSS3, Javascript
 - **Backend Frameworks**: Node.js, Express
 - **Databases**: MongoDB, PostgreSQL
 - **Authentication**: JWT, OAuth
