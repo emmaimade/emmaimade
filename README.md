@@ -28,6 +28,7 @@ I’m a passionate **Backend Developer** who specializes in building scalable, e
 ## 🌱 I’m learning and growing by:
 - Diving deeper into **API security** and **scalability** strategies
 - Exploring **microservices** and **serverless architecture**
+- Exploring **Full-Stack Development**
 - Working on improving my knowledge of **cloud platforms** (AWS, Google Cloud, etc.)
 
 ---
